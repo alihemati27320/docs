@@ -1,3 +1,5 @@
+![Screenshot_۲۰۲۵-۰۵-۰۳-۰۲-۲۷-۳۲-۰۶۲_com kmshack onewallet](https://github.com/user-attachments/assets/e5a15b4b-a05f-48fc-8cb8-af84f0144a3e)
+![Screenshot_۲۰۲۵-۰۵-۰۳-۰۲-۲۷-۳۹-۴۹۹_com kmshack onewallet](https://github.com/user-attachments/assets/498dca92-93dd-4ec2-a340-8e0881de2d9a)
 ---
 title: Navigating code on GitHub
 intro: 'You can understand the relationships within and across repositories by navigating code directly in {% data variables.product.github %}.'
@@ -72,3 +74,4 @@ If code navigation is enabled for you but you don't see links to the definitions
 ## Further reading
 
 * [AUTOTITLE]{% ifversion code-search-upgrade %}(/search-github/github-code-search/about-github-code-search){% else %}(/search-github/searching-on-github/searching-code){% endif %}
+م
